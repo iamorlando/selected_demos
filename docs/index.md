@@ -6,7 +6,7 @@
 ## Tick Data API
 <p align="center">
   <a href="https://github.com/iamorlando/ticks_to_bars" target="_blank" rel="noopener noreferrer">
-    <img src="https://opengraph.githubassets.com/22996aab5bf939c2e3e801b61d00e59eef6f1d03679f90cac30c99c0cde47c07/iamorlando/ticks_to_bars" alt="Tick Data API preview" width="900" />
+    <img src="https://repository-images.githubusercontent.com/1174157523/aefae01d-a445-4141-a396-e266963916f6" alt="Tick Data API preview" width="900" />
   </a>
 </p>
 
