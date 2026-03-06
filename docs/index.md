@@ -5,7 +5,7 @@
 
 ## Tick Data API
 <p align="center">
-  <a href="https://github.com/iamorlando/ticks_to_bars" target="_blank" rel="noopener noreferrer">
+  <a class="preview-link" href="https://github.com/iamorlando/ticks_to_bars" target="_blank" rel="noopener noreferrer">
     <img src="https://repository-images.githubusercontent.com/1174157523/aefae01d-a445-4141-a396-e266963916f6" alt="Tick Data API preview" width="900" />
   </a>
 </p>
@@ -29,7 +29,7 @@ This notebook uses a market data client I designed for ML feature extraction and
 
 ## Monte Carlo Simulation
 <p align="center">
-  <a href="https://forward-market-model.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a class="preview-link" href="https://forward-market-model.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://forward-market-model.vercel.app/opengraph-video.mp4" alt="Monte Carlo Simulation preview" width="900" />
   </a>
 </p>
@@ -50,7 +50,7 @@ A trippy visualization of modeling the term structure of interest rates using th
 
 ## SOFR Swap Pricing
 <p align="center">
-  <a href="https://experimetal-swap-blotter.vercel.app/swap/SWP-00000000" target="_blank" rel="noopener noreferrer">
+  <a class="preview-link" href="https://experimetal-swap-blotter.vercel.app/swap/SWP-00000000" target="_blank" rel="noopener noreferrer">
     <img src="https://experimetal-swap-blotter.vercel.app/api/swap-og?id=SWP-00000000" alt="SOFR Swap Pricing preview" width="900" />
   </a>
 </p>
