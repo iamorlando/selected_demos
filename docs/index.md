@@ -3,6 +3,26 @@
 
 
 
+## Symcoe Interest Rate Simulations
+<p align="center">
+  <a class="preview-link" href="https://ex.periment.in/blog/ir-symcoe" target="_blank" rel="noopener noreferrer">
+    <img src="ir_sims.png" alt="Symcoe Interest Rate Simulations preview" width="900" />
+  </a>
+</p>
+
+
+
+### Description
+Interactive examples of interest rate term structure models built with Symcoe. The page collects multiple rate-model simulations, shows both path and curve perspectives, and runs the simulations locally in the browser with tooling designed to handle large plotted datasets without locking up the UI.
+### Demonstrated techniques and technologies
+- Rust for Monte Carlo simulation and numerical computing
+- WebAssembly and web workers for in-browser execution
+- Interest rate modeling across short-rate and forward-rate frameworks
+- D3 and canvas-based rendering for large simulation plots
+- Arrow IPC for efficient transport of typed simulation data
+- GPU-accelerated browser-side simulation workflows
+
+
 ## Tick Data API
 <p align="center">
   <a class="preview-link" href="https://github.com/iamorlando/ticks_to_bars" target="_blank" rel="noopener noreferrer">
