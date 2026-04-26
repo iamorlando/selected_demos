@@ -26,28 +26,6 @@ This notebook uses a market data client I designed for ML feature extraction and
 - Database role-based access control and security best practices
 
 
-
-## Monte Carlo Simulation
-<p align="center">
-  <a href="https://forward-market-model.vercel.app/" target="_blank" rel="noopener noreferrer">
-    <img src="https://forward-market-model.vercel.app/opengraph-video.mp4" alt="Monte Carlo Simulation preview" width="900" />
-  </a>
-</p>
-
-
-
-### Description
-A trippy visualization of modeling the term structure of interest rates using the forward market model. A Rebonato parameterization is exposed to allow you to see the impact of changes in volatility specification as well as initial term structure. The demo runs in real time, and contains links to engine parameterization examples, as well as pricing convergence and `adjoint algorithmic differentiation` results. The engine is fully built in `Rust`.
-### Demonstrated techniques and technologies
-- Rust for high-performance numerical computing
-- WebAssembly for running Rust code in the browser
-- Compiler techniques like feature flagging for cross-platform compatibility
-- Generic Monte Carlo engine design for flexibility in modeling choices
-- React, TypeScript, server-side rendering
-- Interest rate modeling
-- Adjoint Algorithmic Differentiation for efficient risk sensitivities
-- Optimization techniques for path generation and rendering
-
 ## SOFR Swap Pricing
 <p align="center">
   <a href="https://experimetal-swap-blotter.vercel.app/swap/SWP-00000000" target="_blank" rel="noopener noreferrer">
